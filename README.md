@@ -1,10 +1,16 @@
-![Logo](/images/cp.png)
+![Logo](/images/Cp.png)
 
 # Amine Portfolio Showcase 💻
 
 Welcome to **Amine's Portfolio Showcase**!  
 A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
 It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
+
+---
+
+## Live Demo 🚀
+
+You can view the live website here: [https://stalwart-baklava-8ed433.netlify.app/](#)
 
 ---
 
@@ -37,6 +43,12 @@ It is fully **responsive**, interactive, and visually appealing across desktop, 
 - **JavaScript (Vanilla JS)** – Interactivity and animations  
 - **Font Awesome / Boxicons** – Icons  
 - **AOS.js** – Scroll animations  
+
+---
+
+## License
+
+This project is licensed under the terms described in the [LICENSE](LICENSE) file.
 
 ---
 
