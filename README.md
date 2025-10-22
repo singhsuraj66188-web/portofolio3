@@ -1,4 +1,4 @@
-![Logo](/images/Capture d'écran 2025-10-22 182207)
+![Logo](/images/Capture)
 
 # Amine Portfolio Showcase 💻
 
