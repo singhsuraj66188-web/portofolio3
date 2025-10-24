@@ -56,5 +56,20 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 1. **Clone the repository:**
 
+ ---
+
+## 📬 Contact
+
+- Email: aminehamzaoui1925@gmail.com   
+- Location: Boumerdès, Algeria  
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
+- GitHub: [GitHub](https://github.com/Saboo24)  
+- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+
+---
+
+Made with ❤️ by **Amine Hamzaoui**
+
+
 ```bash
 git clone https://github.com/Saboo24/portfolio-showcase.git
